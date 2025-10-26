@@ -1,0 +1,6 @@
+
+{
+  "name": "Festive Marketing Image Generator",
+  "description": "An AI-powered tool that takes your company info, a festival name, and a product image to generate 5 unique, themed marketing images, each with custom festive and promotional headlines.",
+  "requestFramePermissions": []
+}
