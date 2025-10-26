@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+python-multipart
+Pillow
+click
+h11
+starlette
+annotated-types==0.7.0
+pydantic==2.12.3
+pydantic-core==2.41.4
+typing-extensions==4.15.0
+typing-inspection==0.4.2
+diffusers
